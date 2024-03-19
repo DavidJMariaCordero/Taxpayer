@@ -314,3 +314,4 @@ FROM (
 ) AS [t]
 LEFT JOIN [TaxReceipts] AS [t0] ON [t].[Id] = [t0].[ContributorId]
 ORDER BY [t].[Id]
+[INFOR] 2024-03-19 19:55:38 (TaxPayer.Startup): Starting TaxPayer @ Development

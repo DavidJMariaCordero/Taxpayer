@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Persistence;
 using Repository;
 using TaxPayer.MapperProfiles;
-using Services;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using Services;
 
 namespace TaxPayer.Extensions
 {
