@@ -1,0 +1,38 @@
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Services.dll
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Domain.dll
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Persistence.dll
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Repository.dll
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Domain.pdb
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Repository.pdb
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\bin\Debug\net7.0\Persistence.pdb
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.dll
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\David Maria\source\repos\servicemonitor\src\Services\obj\Debug\net7.0\ref\Services.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Services.deps.json
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Services.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Services.pdb
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Domain.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Persistence.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Repository.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Domain.pdb
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Repository.pdb
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\bin\Debug\net7.0\Persistence.pdb
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\refint\Services.dll
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\Services.pdb
+D:\Source\Repos\TaxClean\servicemonitor\src\Services\obj\Debug\net7.0\ref\Services.dll
