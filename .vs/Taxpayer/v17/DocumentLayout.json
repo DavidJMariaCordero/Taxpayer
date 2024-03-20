@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\Repos\\Taxpayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|d:\\source\\repos\\taxpayer\\taxpayer.persistence\\configurations\\contributorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|solutionrelative:taxpayer.persistence\\configurations\\contributorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\contracts\\entities\\taxreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\contracts\\entities\\taxreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\contracts\\entities\\contributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\contracts\\entities\\contributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\services\\contributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\services\\contributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|d:\\source\\repos\\taxpayer\\taxpayer.persistence\\taxpayerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|solutionrelative:taxpayer.persistence\\taxpayerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FF68D-A027-4A75-865E-681D23B972E6}|TaxPayer.API\\TaxPayer.API.csproj|d:\\source\\repos\\taxpayer\\taxpayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5FF68D-A027-4A75-865E-681D23B972E6}|TaxPayer.API\\TaxPayer.API.csproj|solutionrelative:taxpayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FF68D-A027-4A75-865E-681D23B972E6}|TaxPayer.API\\TaxPayer.API.csproj|d:\\source\\repos\\taxpayer\\taxpayer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE5FF68D-A027-4A75-865E-681D23B972E6}|TaxPayer.API\\TaxPayer.API.csproj|solutionrelative:taxpayer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\contracts\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\contracts\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\repository\\contributorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\repository\\contributorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FF68D-A027-4A75-865E-681D23B972E6}|TaxPayer.API\\TaxPayer.API.csproj|d:\\source\\repos\\taxpayer\\taxpayer.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5FF68D-A027-4A75-865E-681D23B972E6}|TaxPayer.API\\TaxPayer.API.csproj|solutionrelative:taxpayer.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|d:\\source\\repos\\taxpayer\\taxpayer.persistence\\configurations\\taxreceiptconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|solutionrelative:taxpayer.persistence\\configurations\\taxreceiptconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\contracts\\services\\icontributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\contracts\\services\\icontributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\services\\taxreceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\services\\taxreceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\contracts\\services\\itaxreceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\contracts\\services\\itaxreceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|d:\\source\\repos\\taxpayer\\taxpayer.persistence\\taxpayer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|solutionrelative:taxpayer.persistence\\taxpayer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|d:\\source\\repos\\taxpayer\\src\\taxpayer.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE33838-0518-4042-9DDA-6928B1B2E75E}|src\\Taxpayer.Domain\\Taxpayer.Domain.csproj|solutionrelative:src\\taxpayer.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|d:\\source\\repos\\taxpayer\\taxpayer.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738A737-1D9E-4C6B-B1F5-D8CF79E90839}|Taxpayer.Application\\Taxpayer.Application.csproj|solutionrelative:taxpayer.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|d:\\source\\repos\\taxpayer\\taxpayer.persistence\\migrations\\20240318204924_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC29AB-EF82-489E-9827-920745E2A64F}|Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj|solutionrelative:taxpayer.persistence\\migrations\\20240318204924_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Repository\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Contracts\\Repository\\IRepositoryBase.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Repository\\IRepositoryBase.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Contracts\\Repository\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:10:40.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContributorService.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Services\\ContributorService.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Services\\ContributorService.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Services\\ContributorService.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Services\\ContributorService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:33:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240318204924_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Migrations\\20240318204924_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Persistence\\Migrations\\20240318204924_InitialCreate.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Migrations\\20240318204924_InitialCreate.cs",
+              "RelativeToolTip": "Taxpayer.Persistence\\Migrations\\20240318204924_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:49:25.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContributorConfiguration.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Configurations\\ContributorConfiguration.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Persistence\\Configurations\\ContributorConfiguration.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Configurations\\ContributorConfiguration.cs",
+              "RelativeToolTip": "Taxpayer.Persistence\\Configurations\\ContributorConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:07:45.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contributor.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Entities\\Contributor.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Contracts\\Entities\\Contributor.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Entities\\Contributor.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Contracts\\Entities\\Contributor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:07:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxReceipt.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Entities\\TaxReceipt.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Contracts\\Entities\\TaxReceipt.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Entities\\TaxReceipt.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Contracts\\Entities\\TaxReceipt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:08:01.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxPayerDbContext.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\TaxPayerDbContext.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Persistence\\TaxPayerDbContext.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\TaxPayerDbContext.cs",
+              "RelativeToolTip": "Taxpayer.Persistence\\TaxPayerDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:21:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\TaxPayer.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaxPayer.API\\Program.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\TaxPayer.API\\Program.cs",
+              "RelativeToolTip": "TaxPayer.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:26:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\TaxPayer.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaxPayer.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\TaxPayer.API\\appsettings.Development.json",
+              "RelativeToolTip": "TaxPayer.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T20:48:35.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:45:22.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\TaxPayer.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TaxPayer.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\TaxPayer.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TaxPayer.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:34:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContributorRepository.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Repository\\ContributorRepository.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Repository\\ContributorRepository.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Repository\\ContributorRepository.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Repository\\ContributorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:46:07.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaxReceiptConfiguration.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Configurations\\TaxReceiptConfiguration.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Persistence\\Configurations\\TaxReceiptConfiguration.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Configurations\\TaxReceiptConfiguration.cs",
+              "RelativeToolTip": "Taxpayer.Persistence\\Configurations\\TaxReceiptConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:23:40.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IContributorService.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Services\\IContributorService.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Contracts\\Services\\IContributorService.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Services\\IContributorService.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Contracts\\Services\\IContributorService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:12:32.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaxReceiptService.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Services\\TaxReceiptService.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Services\\TaxReceiptService.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Services\\TaxReceiptService.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Services\\TaxReceiptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:33:48.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITaxReceiptService.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Services\\ITaxReceiptService.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Contracts\\Services\\ITaxReceiptService.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Contracts\\Services\\ITaxReceiptService.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Contracts\\Services\\ITaxReceiptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:12:59.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Data\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Data\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Data\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Data\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:44:51.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Taxpayer.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj",
+              "RelativeToolTip": "Taxpayer.Persistence\\Taxpayer.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T22:07:15.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Abstractions\\Error.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Abstractions\\Error.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Abstractions\\Error.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Abstractions\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:51:00.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:47:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:51:48.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Abstractions\\Result.cs",
+              "RelativeDocumentMoniker": "src\\Taxpayer.Domain\\Abstractions\\Result.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\src\\Taxpayer.Domain\\Abstractions\\Result.cs",
+              "RelativeToolTip": "src\\Taxpayer.Domain\\Abstractions\\Result.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:50:14.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:54:14.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:56:01.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Taxpayer.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "D:\\Source\\Repos\\Taxpayer\\Taxpayer.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "Taxpayer.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:56:11.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
